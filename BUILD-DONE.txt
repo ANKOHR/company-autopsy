@@ -1,0 +1,4 @@
+Tests: 11 passed
+Local commit hash: 3399ba0ccf3aab62b16b4c2ee845612bdd1e2a00
+
+Built Company Autopsy as a deterministic, CPU-only Python CLI with three fictional dossier fixtures, stable source IDs, rule-based OBSERVED and INFERRED claims, confidence scoring, exact evidence quotes, starting-price contradiction flags, and Markdown and HTML reports. Added a complete README covering quickstart, architecture, the honesty boundary, claim ontology, confidence rubric, and documented detection limits. The full pytest suite and CLI end-to-end checks passed.
